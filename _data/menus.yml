@@ -1,16 +1,19 @@
 main:
-  - name: "Services"
+  - name: "Angebot"
     url: "/services/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Methode"
+    url: "/method/"
     weight: 3
-  - name: "About"
+  - name: "Über mich"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
+  - name: "Impressum"
+    url: "/imprint/"
+    weight: 6
 
 footer:
   - name: "Home"

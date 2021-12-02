@@ -1,7 +1,7 @@
 ---
-title: Über mich
+title: Impressum
 layout: page
-description: Über mich
+description: Impressum
 bodyClass: page-about
 ---
 
