@@ -1,6 +1,6 @@
 main:
-  - name: "Angebot"
-    url: "/services/"
+  - name: "Wann?"
+    url: "/when/"
     weight: 2
   - name: "Methode"
     url: "/method/"

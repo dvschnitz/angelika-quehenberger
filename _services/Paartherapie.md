@@ -15,4 +15,4 @@ In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, we
 * Ihre Kommunikation gerade auf „Null“ zu geht
 
 Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN. Paarprobleme entstehen meist nicht von heute auf morgen!
-Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“
+Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“.

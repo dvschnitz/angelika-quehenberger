@@ -6,8 +6,8 @@ weight: 7
 layout: service
 ---
 
-* Sie möchten Ihre Fertigkeiten und Fähigkeiten besser nutzen
-* Ihr Potential ausbauen
-* Ihre Persönlichkeit weiterentwickeln
+* Sie möchten Ihre Fertigkeiten und Fähigkeiten besser nutzen.
+* Ihr Potential ausbauen.
+* Ihre Persönlichkeit weiterentwickeln.
 
 

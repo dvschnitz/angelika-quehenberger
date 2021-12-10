@@ -23,6 +23,8 @@ Eine weitere Methode ist die systemische Aufstellungsarbeit. Sie wird hauptsäch
 
 Die erste Sitzung dient dazu sich gegenseitig kennenzulernen, zu ergründen, ob und welche Therapie oder Unterstützung für Sie hilfreich sein kann. In dieser Sitzung werden auch Themen wie meine Verschwiegenheitspflicht, der Datenschutz, Empfehlung zu Setting und Therapiedauer, sowie das Prozedere zu den Therapievereinbarungen, besprochen.
 
+# Zahlungsmodalitäten
+
 Als Psychotherapeutin in Ausbildung unter Supervision können sie ihre Rechnung nicht bei der Krankenkasse einreichen. Deswegen habe ich für Sie meinen Tarif so angepasst, dass IHNEN trotzdem keine höheren Kosten entstehen.
 
 Eine Einheit Psychotherapie dauert 50 Minuten und kostet 65 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 130 Euro.

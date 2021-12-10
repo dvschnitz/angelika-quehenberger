@@ -11,8 +11,8 @@
   <title>logo-mobile</title>
   <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <g id="logo-mobile">
-      <rect id="Rectangle-6" stroke-width="4" fill-rule="nonzero" x="2" y="2" width="50" height="50" style="paint-order: stroke; stroke: rgb(238, 170, 71);"/>
-      <text style="fill: rgb(238, 170, 71); font-family: &quot;Playfair Display&quot;; font-size: 28px; font-weight: 700; white-space: pre;"><tspan x="6.914" y="36.65" style="fill: rgb(47, 47, 65);">A</tspan><tspan>Q</tspan></text>
+      <rect id="Rectangle-6" stroke-width="4" fill-rule="nonzero" x="2" y="2" width="50" height="50" style="paint-order: stroke; stroke: rgb(229, 38, 31);"/>
+      <text style="fill: rgb(238, 170, 71); font-family: &quot;Playfair Display&quot;; font-size: 28px; font-weight: 700; white-space: pre;"><tspan x="6.914" y="36.65" style="fill: rgb(47, 47, 65);">A</tspan><tspan style="fill: rgb(229, 38, 31);">Q</tspan></text>
     </g>
   </g>
 </svg>
