@@ -16,4 +16,4 @@ Ihre Lebensqualität ist gerade beeinträchtigt, der Alltag schwer bewältigbar,
 
 Haben somatische Beschwerden, wie:  Schmerzen, Schlafstörungen, Schwindel, verspüren einen Zwang, bestimmte Handlungen (Waschen, etc. ) zu wiederholen, haben Angst oder Panik vor gewissen Situationen (kleinen Räumen,  großen Plätzen, Prüfungen, etc.)
 
-Sie fühlen sich krank, obwohl der Arzt keine somatischen Gründe dafür findet, oder sie möchten einfach Vergangenes hinter sich lassen und neu beginnen.
+Sie fühlen sich krank, obwohl ihr Arzt keine somatischen Gründe dafür findet, oder sie möchten einfach Vergangenes hinter sich lassen und neu beginnen.
