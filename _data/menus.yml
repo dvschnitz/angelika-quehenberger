@@ -8,9 +8,6 @@ main:
   - name: "Über mich"
     url: "/about/"
     weight: 4
-  - name: "Kontakt"
-    url: "/contact/"
-    weight: 5
 
 footer:
   - name: "Kontakt"
