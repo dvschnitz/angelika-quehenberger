@@ -11,14 +11,11 @@ main:
   - name: "Kontakt"
     url: "/contact/"
     weight: 5
-  - name: "Impressum"
-    url: "/imprint/"
-    weight: 6
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
+    weight: 1
+  - name: "Impressum"
+    url: "/imprint/"
     weight: 2
