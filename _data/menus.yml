@@ -5,25 +5,29 @@ main:
   - name: "Einzel"
     url: "/services/Einzeltherapie/"
     weight: 2
+    isSub: true
   - name: "Paar"
     url: "/services/Paartherapie/"
     weight: 3
+    isSub: true
   - name: "Familien"
     url: "/services/Familientherapie/"
     weight: 4
+    isSub: true
   - name: "Kinder & Jugendliche"
     url: "/services/KindernJugendTherapie/"
     weight: 5
-  - name: "Coaching"
-    url: "/services/Coaching/"
+    isSub: true
+  - name: "Coaching & Beratung"
+    url: "/services/CoachingBeratung/"
     weight: 6
-  - name: "Beratung"
-    url: "/services/Beratung/"
+  - name: "Scheidungsberatung"
+    url: "/services/Scheidungsberatung/"
     weight: 7
   - name: "Methode"
     url: "/method/"
     weight: 8
-  - name: "Ablauf der ersten Sitzung"
+  - name: "Ablauf erste Sitzung"
     url: "/ersteSitzung/"
     weight: 9
   - name: "Zahlungsmodalitäten"
