@@ -1,5 +1,5 @@
 ---
-title: "Familientherapie"
+title: "Familien&shy;therapie"
 date: 2021-11-28T15:15:26+10:00
 featured: true
 weight: 3

@@ -1,14 +1,37 @@
 main:
-  - name: "Wann?"
-    url: "/when/"
+  - name: "Therapieangebote"
+    url: "/therapie/"
+    weight: 1
+  - name: "Einzel"
+    url: "/services/Einzeltherapie/"
     weight: 2
+  - name: "Paar"
+    url: "/services/Paartherapie/"
+    weight: 3
+  - name: "Familien"
+    url: "/services/Familientherapie/"
+    weight: 4
+  - name: "Kinder & Jugendliche"
+    url: "/services/KindernJugendTherapie/"
+    weight: 5
+  - name: "Coaching"
+    url: "/services/Coaching/"
+    weight: 6
+  - name: "Beratung"
+    url: "/services/Beratung/"
+    weight: 7
   - name: "Methode"
     url: "/method/"
-    weight: 3
+    weight: 8
+  - name: "Ablauf der ersten Sitzung"
+    url: "/ersteSitzung/"
+    weight: 9
+  - name: "Zahlungsmodalitäten"
+    url: "/zahlung/"
+    weight: 10
   - name: "Über mich"
     url: "/about/"
-    weight: 4
-
+    weight: 11
 footer:
   - name: "Kontakt"
     url: "/contact/"

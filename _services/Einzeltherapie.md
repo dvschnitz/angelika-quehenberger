@@ -1,5 +1,5 @@
 ---
-title: "Einzeltherapie"
+title: "Einzel&shy;therapie"
 date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 1
