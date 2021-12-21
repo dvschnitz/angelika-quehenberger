@@ -1,7 +1,7 @@
 ---
 title: Zahlungs&shy;modalitäten
 layout: page
-description: TODO
+description: Zahlungsmodalitäten
 permalink: "/zahlung/"
 ---
 
