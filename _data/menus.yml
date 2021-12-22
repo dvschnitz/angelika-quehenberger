@@ -1,23 +1,20 @@
 main:
   - name: "Therapieangebote"
-    url: "/therapie/"
+    id: "therapy"
     weight: 1
-  - name: "Einzel"
-    url: "/services/Einzeltherapie/"
-    weight: 2
-    isSub: true
-  - name: "Paar"
-    url: "/services/Paartherapie/"
-    weight: 3
-    isSub: true
-  - name: "Familien"
-    url: "/services/Familientherapie/"
-    weight: 4
-    isSub: true
-  - name: "Kinder & Jugendliche"
-    url: "/services/KindernJugendTherapie/"
-    weight: 5
-    isSub: true
+    children: [{
+        name: "Einzel",
+        url: "/services/Einzeltherapie/"
+      },{
+        name: "Paar",
+        url: "/services/Paartherapie/"
+      },{
+        name: "Familien",
+        url: "/services/Familientherapie/"
+      },{
+        name: "Kinder & Jugendliche",
+        url: "/services/KindernJugendTherapie/"
+    }]
   - name: "Coaching & Beratung"
     url: "/services/CoachingBeratung/"
     weight: 6
@@ -34,8 +31,19 @@ main:
     url: "/zahlung/"
     weight: 10
   - name: "Über mich"
-    url: "/about/"
+    id: "about"
     weight: 11
+    children: [{
+        name: "Berufserfahrung & Praktika",
+        url: "/berufserfahrung/"
+      },{
+        name: "Aus- und Fortbildungen",
+        url: "/ausbildung/"
+      },{
+        name: "Ich als Person",
+        url: "/ich/"
+      }
+    ]
 footer:
   - name: "Kontakt"
     url: "/contact/"

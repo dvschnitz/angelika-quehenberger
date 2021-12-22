@@ -2,9 +2,23 @@
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}
-    <li class="{% if item.url == page.url %}active{% endif %} {% if item.isSub %}is-sub-menu{% endif %}">
-      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      {% if !!item.children %}
+        <div onclick="toggleSubMenu('{{item.id}}')">{{ item.name }}</div>
+      {% endif %}
+
+      {% if item.children == null %}
+        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% endif %}
+
     </li>
+        {% for subitem in item.children %}
+          <li class="{% if subitem.url == page.url %}active {% endif %}is-sub-menu child-{{item.id}}"
+              style="display: none;">
+            <a href="{{ subitem.url | relative_url }}">{{ subitem.name }}</a>
+          </li>
+        {% endfor %}
+
     {% endfor %}
   </ul>
 </div>
