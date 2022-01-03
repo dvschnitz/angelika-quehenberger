@@ -4,7 +4,7 @@ layout: contact
 description: Wie ihr mich erreichen könnt
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+ Ich freue mich auf Ihren Anruf. Sollten Sie mich telefonisch nicht erreichen, bin ich gerade in einer Therapiesitzung oder sonst beschäftigt. Wenn Sie mir eine SMS senden, rufe ich Sie alsbald zurück.
 
 | Tag       | Öffnungszeiten  |
 | --------- | --------------- |

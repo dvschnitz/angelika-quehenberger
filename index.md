@@ -10,4 +10,6 @@ show_call_box: true
 
 # Angelika Quehenberger - Praxis für Psychotherapie
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi.
+Ich freue mich über Ihr Interesse und über Ihre Motivation zu einem Schritt, der für Sie von Bedeutung sein könnte.
+Wenn Sie der Blick in mein [Fenster]() anspricht und Ihr Interesse weckt, dann klopfen Sie auch gerne an meine [Tür](contact/).
+Wir werden dann gemeinsam schauen, wie ich Ihnen behilflich sein kann.
