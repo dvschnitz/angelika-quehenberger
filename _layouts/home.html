@@ -22,7 +22,7 @@ bodyClass: "page-home"
 </div>
 
 <div class="strip">
-  <div class="container pt-3 pb-3 pt-md-6 pb-md-6">
+  <div class="container pt-2 pb-3 pt-md-4 pb-md-3">
     <div class="row justify-content-start">
       {% assign weighted_services = site.services | sort: "weight" %}
       {% for service in weighted_services %}
@@ -38,11 +38,27 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
     </div>
-    <!-- <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-2 pb-3 pt-md-2 pb-md-6">
+    <h1 class="pb-1">Blog und Aktuelles</h1>
+    <div class="row justify-content-start">
+      {% assign weighted_blog = site.blogs | sort: "weight" %}
+      {% for blog in weighted_blog %}
+      <div class="col-12 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ blog.url | relative_url }}">{{ blog.title }}</a>
+            </h2>
+            <p>{{ blog.content | markdownify | strip_html | truncate: 100 }}</p>
+          </div>
+        </div>
       </div>
-    </div> -->
+      {% endfor %}
+    </div>
   </div>
 </div>
 
