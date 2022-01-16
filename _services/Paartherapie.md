@@ -5,7 +5,7 @@ featured: true
 weight: 2
 layout: page
 ---
-In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie nach Lösungsmöglichkeiten suchen und ich werde versuchen, Sie dabei zu unterstützen.
+In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
 
 * Wenn gegenseitige Wünsche und Bedürfnisse nicht mehr erfüllt werden
 * Lebenspläne auseinander klaffen

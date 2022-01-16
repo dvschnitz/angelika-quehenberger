@@ -10,12 +10,12 @@ Der Sinn einer Familientherapie liegt in der Annahme begründet, dass Probleme e
 Hier kommt besonders der systemische Gedanke zum Einsatz, nämlich dass sich alles „gegenseitig“ bedingt. Vor allem bei Kindern und Jugendlichen ist es sehr wichtig, Eltern oder aber auch das gesamte Familiensystem in die Therapie mit einzubeziehen.
 
 In der systemischen Familientherapie wird der Fokus vermehrt auf die Interaktionen innerhalb der Familie gelegt und so versucht „den Dingen“ auf die Spur zu kommen.
-Mögliche Störungen die auftreten können:
-* Essstörungen
-* Störungen wie ADHS (Aufmerksamkeitsdefizit und Hyperaktivitätsstörungen)
-* Angstzustände
-* Bipolare Störungen
-* Depressionen
-* Verhaltensstörungen
-
+Mögliche Gründe für eine Familientherapie:
+* Bei schwerwiegenden, immer wieder aufflammenden Konflikten innerhalb der Familie
+* Bei neuen Familienkonstellationen (Patchwork, Adoption)
+* Psychische Probleme oder Erkrankung eines Familienmitglieds (Depression, bipolare Störungen, Essstörung, Süchte, etc.)
+* Traumatische Erfahrungen, Verlust eines Familienmitglieds
+* Lebensbedrohliche Erkrankung eines Familienmitglieds
+* Schulische Probleme
+* Trennung/ Scheidung der Eltern
 

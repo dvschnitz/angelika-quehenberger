@@ -10,6 +10,6 @@ show_call_box: true
 
 # Angelika Quehenberger - Praxis für Psychotherapie
 
-Ich freue mich über Ihr **Interesse** und über **Ihre Motivation zu einem Schritt, der für Sie von Bedeutung** sein könnte.
-Wenn Sie der Blick in mein [Fenster]() anspricht und Ihr Interesse weckt, dann klopfen Sie auch gerne an meine [Tür](contact/).
-Wir werden dann gemeinsam schauen, wie ich Ihnen behilflich sein kann.
+Ich freu mich über ihr Interesse und über ihre Motivation zu einem Schritt der für Sie von Bedeutung sein wird.
+Wenn der Blick in mein [Fenster]() Sie anspricht und Ihr Interesse weckt, dann klopfen Sie gerne an meine [Tür](contact/).
+Finden wir gemeinsam heraus, wie ich Sie professionell unterstützen und begleiten kann.
