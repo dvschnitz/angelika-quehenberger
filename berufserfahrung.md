@@ -15,6 +15,7 @@ description: Über mich Berufserfahrung & Praktika
 * 2006 - 2013 Referentin auf selbstständiger Basis im Eltern Kind Zentrum Salzburg und bei den Kinderfreunden OÖ
 * 1997 – 1998 Nachdienst in der Krisenstelle für Kinder und Jugendliche als Sozialpädagogin
 * Langjährig als Arzthelferin in verschiedenen Sparten tätig
+* Referentin und Leitung von Väterseminaren auf selbstständiger Basis über die Katholische Männerbewegung
 
 ## Praktika
 * 2020 Mobilis GmbH
