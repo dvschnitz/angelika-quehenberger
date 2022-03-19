@@ -31,12 +31,9 @@ main:
   - name: "Ablauf erste Sitzung"
     url: "/ersteSitzung/"
     weight: 9
-  - name: "Zahlungsmodalitäten"
-    url: "/zahlung/"
-    weight: 10
   - name: "Über mich"
     id: "about"
-    weight: 11
+    weight: 10
     children: [{
         name: "Berufserfahrung & Praktika",
         url: "/berufserfahrung/"
