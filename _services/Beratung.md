@@ -4,6 +4,7 @@ date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 6
 layout: page
+intro_image: "images/photos/H060319.jpg"
 ---
 
 ## Beratung

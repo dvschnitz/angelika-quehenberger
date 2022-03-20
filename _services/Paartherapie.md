@@ -4,6 +4,7 @@ date: 2021-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: page
+intro_image: "images/photos/H060361.jpg"
 ---
 In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
 

@@ -2,6 +2,7 @@
 title: Aus- und Fort&shy;bildungen
 layout: page
 description: Über mich Aus- und Fortbildungen
+intro_image: "images/photos/H060269.jpg"
 ---
 
 ## Aus- und Fortbildungen
