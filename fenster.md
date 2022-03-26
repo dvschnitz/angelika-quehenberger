@@ -2,7 +2,7 @@
 title: Psychotherapie, Coaching, Beratung - wozu und für wen?
 layout: page
 description: Psychotherapie, Coaching, Beratung - wozu und für wen?
-intro_image: ""
+# TODO H060 254
 ---
 
 ### Ressourcenorientiert - Lösungsorientiert - Persönlichkeitsbildend

@@ -19,20 +19,20 @@ main:
         url: "/services/TherapieAlte/"
       }
     ]
-  - name: "Coaching & Beratung"
-    url: "/services/CoachingBeratung/"
+  - name: "Coaching"
+    url: "/services/Coaching/"
     weight: 6
+  - name: "Beratung"
+    url: "/services/Beratung/"
+    weight: 7
   - name: "Scheidungsberatung"
     url: "/services/Scheidungsberatung/"
-    weight: 7
+    weight: 8
   - name: "Methode"
     url: "/method/"
-    weight: 8
+    weight: 9
   - name: "Ablauf erste Sitzung"
     url: "/ersteSitzung/"
-    weight: 9
-  - name: "Zahlungsmodalitäten"
-    url: "/zahlung/"
     weight: 10
   - name: "Über mich"
     id: "about"

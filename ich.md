@@ -2,6 +2,8 @@
 title: Ich als Person & und mein(e) Beruf-ung
 layout: page
 description: Über mich
+intro_image: "images/photos/H060200.jpg"
+# TODO H060 200 and H060 205
 ---
 
 # Was mir wichtig ist

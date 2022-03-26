@@ -4,6 +4,7 @@ date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 8
 layout: service
+intro_image: "images/photos/IMG_7914.jpg"
 ---
 
 Diese Therapie ist für ältere Menschen gedacht, mit dem Ziel die Lebensqualität und das Wohlbefinden zu verbessern!

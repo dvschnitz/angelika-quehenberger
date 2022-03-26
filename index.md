@@ -2,7 +2,7 @@
 title: Angelika Quehenberger
 layout: home
 description: Angelika Quehenberger Praxis für Psychotherapie
-intro_image: "images/illustrations/undraw_road_sign_mfpo.svg"
+intro_image: "images/photos/H060254.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: true

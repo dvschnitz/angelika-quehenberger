@@ -3,6 +3,8 @@ title: "Therapie mit Kindern und Jugendlichen"
 date: 2021-11-28T15:15:34+10:00
 featured: true
 weight: 4
+intro_image: "images/photos/H060062.jpg"
+# TODO H060 140 neu and H60 402 H060 428
 ---
 
 Für Kinder und Jugendliche, die sich aktuell gerade mit einer sehr intensiven und außergewöhnlichen Situation konfrontiert sehen

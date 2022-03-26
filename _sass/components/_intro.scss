@@ -30,6 +30,14 @@
     color: $black;
     font-family: $font-family-base;
   }
+  h3 {
+    margin-top: 30px;
+    color: $black;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.2;
+    font-family: $font-family-heading;
+  }
   p {
     font-size: 1.2rem;
     font-weight: light;
@@ -39,7 +47,19 @@
       width: 80%;
     }
   }
+  ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: light;
+    color: $steel;
+    @include media-breakpoint-up(md) {
+      width: 80%
+    }
+  }
 }
+
 
 .intro-small {
   padding-top: 100px;

@@ -3,6 +3,8 @@ title: Methode
 layout: page
 description: Wie ich arbeite
 permalink: "/method/"
+intro_image: "images/photos/H062696.jpg"
+# TODO additionally H60 542
 ---
 
 # Wie arbeite ich? - meine Grundwerte!

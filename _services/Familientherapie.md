@@ -3,6 +3,7 @@ title: "Familien&shy;therapie"
 date: 2021-11-28T15:15:26+10:00
 featured: true
 weight: 3
+intro_image: "images/photos/H060460.jpg"
 ---
 
 Der Sinn einer Familientherapie liegt in der Annahme begründet, dass Probleme eines Familienmitglieds häufig mit der gesamten Familiensituation zusammenhängen.
