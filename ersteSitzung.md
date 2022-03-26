@@ -3,11 +3,8 @@ title: Ablauf der ersten Sitzung
 layout: page
 description: Ablauf der ersten Sitzung
 permalink: "/ersteSitzung/"
-<<<<<<< HEAD
 # TODO: Image 60494
-=======
 intro_image: "images/photos/H060499.jpg"
->>>>>>> 22b6083cf9bcd6725a2bc26be1ef45be97466215
 ---
 
 Die erste Sitzung dient dazu sich gegenseitig kennenzulernen, zu ergründen, ob und welche Therapie oder Unterstützung für Sie hilfreich sein kann. Sollten Sie sich gegen Ende dieser Stunde für eine Therapie entscheiden, dann werden wir gemeinsam Rahmenbedingungen und Therapiekontext (Dauer, Abstand zwischen den Sitzungen, ihren Wunsch nach dem Therapieziel) bereden.
