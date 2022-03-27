@@ -2,7 +2,7 @@
 title: Berufs&shy;erfahrung & Praktika
 layout: page
 description: Über mich Berufserfahrung & Praktika
-# TODO H060 616 and H060 613
+intro_image: ["images/photos/H060616neu.jpg", "images/photos/H060613.jpg"]
 ---
 
 ## Beruflicher Werdegang

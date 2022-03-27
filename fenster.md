@@ -2,10 +2,10 @@
 title: Psychotherapie, Coaching, Beratung - wozu und für wen?
 layout: page
 description: Psychotherapie, Coaching, Beratung - wozu und für wen?
-# TODO H060 254
+intro_image: "images/photos/H060254.jpg"
 ---
 
-### Ressourcenorientiert - Lösungsorientiert - Persönlichkeitsbildend
+## Ressourcenorientiert - Lösungsorientiert - Persönlichkeitsbildend
 * Eine Psychotherapie eignet sich für alle, die unter psychischen oder emotionalen Problemen leiden. Während es also bei einer Psychotherapie darum geht, den vorhandenen Leidensdruck zu nehmen, Lebensumstände so zu ändern, dass ein gutes Leben möglich ist, LEBENSQUALITÄT sich verbessert -
 * Kann Coaching als eine innere Forschungsreise im beruflichen und privaten Begleitungskontext verstanden werden.
 * In der Beratung geht es darum, Ihnen mögliche HANDLUNGSinstrumente bei Problematiken anzubieten

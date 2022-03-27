@@ -2,8 +2,7 @@
 title: Aus- und Fort&shy;bildungen
 layout: page
 description: Über mich Aus- und Fortbildungen
-intro_image: "images/photos/H060269.jpg"
-# TODO H060 511 and H060 512
+intro_image: ["images/photos/H060512.jpg", "images/photos/H060511.jpg"]
 ---
 
 ## Aus- und Fortbildungen

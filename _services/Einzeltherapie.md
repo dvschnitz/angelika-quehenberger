@@ -3,8 +3,7 @@ title: "Einzel&shy;therapie"
 date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 1
-intro_image: "images/photos/H060428.jpg"
-# TODO H062671
+intro_image: "images/photos/H062671.jpg"
 ---
 # für Frauen und Männer
 

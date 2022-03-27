@@ -6,7 +6,7 @@ intro_image: "images/photos/H060254.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: true
-# TODO H060 012
+intro_image: "images/photos/H060014neu.jpg"
 ---
 
 # Angelika Quehenberger - Praxis für Psychotherapie
