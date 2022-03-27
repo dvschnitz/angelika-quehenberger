@@ -10,13 +10,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.15.5)
-    ffi-compiler (1.0.1)
-      ffi (>= 1.0.0)
-      rake
     forwardable-extended (2.6.0)
-    http-parser (1.0.5)
-      ffi-compiler (>= 0.0.2)
-      rake
     http_parser.rb (0.8.0)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
@@ -53,7 +47,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-    rake (13.0.6)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -68,12 +61,11 @@ GEM
 
 PLATFORMS
   arm-linux
+  universal-darwin-21
 
 DEPENDENCIES
-  em-websocket (~> 0.5.3)
-  http-parser (~> 1.0.5)
   jekyll
   jekyll-environment-variables
 
 BUNDLED WITH
-   2.3.6
+   2.3.10
