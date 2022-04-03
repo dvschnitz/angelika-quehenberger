@@ -42,10 +42,17 @@ slideshow = function() {
             (function(ind) {
                 setTimeout(function(){
                     if (previousElement) {
-                        previousElement.style.display = 'none';
+                        previousElement.style.opacity = 0;
+                        setTimeout(() =>{
+                            previousElement.style.display = 'none';
+                        }, 200);
                     }
-                    previousElement = elements[ind % numberOfElements];
-                    previousElement.style.display = 'inline';
+                    
+                    setTimeout(() =>{
+                        previousElement = elements[ind % numberOfElements];
+                        previousElement.style.opacity = 1;
+                        previousElement.style.display = 'inline';
+                    }, 200);
 
                 }, 1000 + (5000 * ind));
             })(i);
