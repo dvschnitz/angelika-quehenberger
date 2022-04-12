@@ -17,7 +17,7 @@ $link-hover-decoration: underline;
 
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Agency FB Bold", serif, -apple-system;
+$font-family-heading: 'Agency FB Bold', serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
@@ -53,7 +53,7 @@ $sub-footer-text-color: $white;
 @import "components/strip";
 @import "components/feature";
 @import "components/social";
-// @import "components/fonts"; // Uncomment this line to self host font
+@import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
 @import "pages/page-home";
