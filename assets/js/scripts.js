@@ -45,16 +45,16 @@ slideshow = function() {
                         previousElement.style.opacity = 0;
                         setTimeout(() =>{
                             previousElement.style.display = 'none';
-                        }, 200);
+                        }, 500);
                     }
-                    
+
                     setTimeout(() =>{
                         previousElement = elements[ind % numberOfElements];
                         previousElement.style.opacity = 1;
                         previousElement.style.display = 'inline';
-                    }, 200);
+                    }, 500);
 
-                }, 1000 + (5000 * ind));
+                }, 1000 + (8000 * ind));
             })(i);
         }
     }
