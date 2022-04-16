@@ -1,5 +1,5 @@
 ---
-title: "Scheidungs­beratung nach § 95 Abs.1a AußStrG  (verpflichtend seit 1. Feb. 2013)"
+title: "Scheidungs­beratung nach § 95 Abs.1a (verpflichtend seit 1. Feb. 2013)"
 date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 6

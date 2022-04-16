@@ -2,7 +2,8 @@
 title: Psychotherapie, Coaching, Beratung - wozu und für wen?
 layout: page
 description: Psychotherapie, Coaching, Beratung - wozu und für wen?
-intro_image: "images/photos/H060254.jpg"
+intro_image: "images/photos/H060494.jpg"
+weight: 0
 ---
 
 ## Ressourcenorientiert - Lösungsorientiert - Persönlichkeitsbildend
