@@ -1,5 +1,13 @@
 .page-home {
   .intro-image {
+    margin-top: 0;
     margin-bottom: 10px;
+    width: 100%;
+    max-width: 1920px;
+  }
+
+  .container-intro-image {
+    display: flex;
+    justify-content: center;
   }
 }
