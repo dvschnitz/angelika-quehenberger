@@ -8,8 +8,10 @@ description: Wie ihr mich erreichen könnt
 
 ## Praxiszeiten
 
-| Mittwoch  | 8:00 - 17:00    |
-| Donnerstag| 8:00 - 17:00    |
-| Freitag   | 8:00 - 17:00    |
+| Montag    | 10:00 - 16:00    |
+| Dienstag  | 10:00 - 16:00    |
+| Mittwoch  | 10:00 - 16:00    |
+| Donnerstag| 10:00 - 16:00    |
+| Freitag   | 10:00 - 16:00    |
 
 oder nach telefonischer Vereinbarung.
