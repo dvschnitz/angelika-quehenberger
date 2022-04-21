@@ -13,4 +13,4 @@ In meiner Freizeit liebe ich es -  als Ausgleich zu meinem Beruf, wo ich so viel
 
 In beruflicher Hinsicht ist es mir sehr wichtig, Ihnen mit Fachkompetenz und Rat aus meiner langjährigen Erfahrung zur Seite zu stehen und Sie zu unterstützen.
 
-Das Leben ist wie Fahrrad fahren. Um die Balance zu halten, musst du in Bewegung bleiben. <sub>Albert Einstein</sub>
+>*Das Leben ist wie Fahrrad fahren. Um die Balance zu halten, musst du in Bewegung bleiben.* <sub>Albert Einstein</sub>
