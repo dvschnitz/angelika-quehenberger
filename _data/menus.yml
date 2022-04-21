@@ -45,7 +45,7 @@ main:
         url: "/ausbildung/"
       },{
         name: "Ich als Person",
-        url: "/ich/"
+        url: "services/ich/"
       }
     ]
 footer:

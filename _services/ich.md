@@ -1,6 +1,9 @@
 ---
-title: Ich als Person & und mein(e) Beruf-ung
-layout: page
+title: Über mich
+date: 2021-11-28T15:15:34+10:00
+featured: true
+weight: 8
+layout: service
 description: Über mich
 intro_image: ["images/photos/H060200.jpg", "images/photos/H060205.jpg"]
 ---
