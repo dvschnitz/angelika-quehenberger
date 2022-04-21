@@ -7,3 +7,5 @@ layout: page
 ---
 
 Ischia  Reise zu Dir selbst!
+
+<a href="../../assets/documents/ischia_flyer.pdf" download>PDF mit Information</a>
