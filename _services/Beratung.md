@@ -10,7 +10,7 @@ intro_image: "images/photos/H060319.jpg"
 ## Beratung
 Bei Lebenseinschnitten, wie beispielsweise nach einer Scheidung, Trennung oder bei  Arbeitslosigkeit kann es oft schwer sein, das neue Leben zu meistern – das Leben „in den Griff“ zu bekommen.
 
-![Illustration Trennung](../../images/illustrations/PT_Quehenberger_Ehestreit.png)
+![Illustration Ehestreit](../../images/illustrations/PT_Quehenberger_Ehestreit.png)
 
 Ich werde mit ihnen gemeinsam auf die Suche gehen, um Sie bei ihren neuen Schritten mit Beratung und praktischen Tipps zu unterstützen.
 * nach einer Scheidung oder Trennung
@@ -18,4 +18,4 @@ Ich werde mit ihnen gemeinsam auf die Suche gehen, um Sie bei ihren neuen Schrit
 
 Auch kann es sein, dass sich Fragen ergeben in Bezug auf unterschiedliche Erziehungsstile. Erziehung ist kein „Kinderspiel“, Probleme und unterschiedliche Ansichten in der Kindererziehung können Eltern oft „schier“ an den Rand der Verzweiflung bringen.
 
-![Illustration Trennung](../../images/illustrations/PT_Quehenberger_Trotz.png)
+![Illustration Trotz](../../images/illustrations/PT_Quehenberger_Trotz.png)

@@ -18,4 +18,6 @@ Was dürfen Sie erwarten?
 
 Ein vertrauliches Gespräch mit einem neutralen Dritten, das zur persönlichen Reflexion oder zur beruflichen Weiterentwicklung anregt. Denkblockaden können so aufgelöst, Entscheidungen reflektiert und Motive hinterfragt werden.
 
+![Illustration Potential](../../images/illustrations/PT_Quehenberger_Potential.png)
+
 Coaching will Menschen befähigen ihre Ziele zu erkennen, klarer zu formulieren und diese mithilfe eigener Ressourcen zu erreichen.
