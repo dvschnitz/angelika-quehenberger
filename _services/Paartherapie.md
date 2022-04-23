@@ -15,5 +15,4 @@ In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, we
 * Sie unterschiedliche Ansichten in Bezug auf Sexualität haben oder Sex überhaupt ein heikles Thema ist
 * Ihre Kommunikation gerade auf „Null“ zu geht
 
-Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN. Paarprobleme entstehen meist nicht von heute auf morgen!
-Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“. <sub>Gschwendt Ilse<sub>
+>*Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN. Paarprobleme entstehen meist nicht von heute auf morgen! Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“.* <sub>Ilse Gschwendt<sub>
