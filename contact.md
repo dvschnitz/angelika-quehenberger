@@ -4,7 +4,7 @@ layout: contact
 description: Wie ihr mich erreichen könnt
 ---
 
-![Angeklika Quehenberger](../images/photos/H060460.jpg)
+![Angeklika Quehenberger](../images/photos/H060469.jpg)
  Ich freue mich auf Ihren Anruf. Sollten Sie mich telefonisch nicht erreichen, bin ich gerade in einer Therapiesitzung oder sonst beschäftigt. Wenn Sie mir eine SMS senden, rufe ich Sie alsbald zurück.
 
 ## Praxiszeiten

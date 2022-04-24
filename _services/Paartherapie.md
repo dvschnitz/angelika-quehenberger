@@ -3,9 +3,9 @@ title: "Paartherapie"
 date: 2021-11-28T15:14:39+10:00
 featured: true
 weight: 2
-intro_image: ["images/photos/H060314.jpg", "images/photos/H060361.jpg"]
+intro_image: ["images/photos/H060314.jpg", "images/photos/H060283neu.jpg",  "images/photos/H060361.jpg"]
 ---
-In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
+In der Paartherapie versucht die Therapeutin mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
 
 * Wenn gegenseitige Wünsche und Bedürfnisse nicht mehr erfüllt werden
 * Lebenspläne auseinander klaffen
@@ -15,4 +15,6 @@ In der Paartherapie versucht der Therapeut mit ihnen gemeinsam zu ergründen, we
 * Sie unterschiedliche Ansichten in Bezug auf Sexualität haben oder Sex überhaupt ein heikles Thema ist
 * Ihre Kommunikation gerade auf „Null“ zu geht
 
->*Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN. Paarprobleme entstehen meist nicht von heute auf morgen! Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“.* <sub>Ilse Gschwendt<sub>
+Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN.
+
+>*Paarprobleme entstehen meist nicht von heute auf morgen! Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“.* <br><sub>Ilse Gschwendt<sub>

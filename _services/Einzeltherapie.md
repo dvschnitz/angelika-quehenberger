@@ -9,12 +9,11 @@ intro_image: "images/photos/H062671.jpg"
 
 Wenn die Seele leidet
 
-Sie fühlen sich verloren, fremdbestimmt, wenig unterstützt, wissen nicht mehr weiter, sehen wenig Ausweg aus der gerade vorfindenden Situation, sind traurig, müde, aufstehen fällt schwer, sie denken, dass das Leben wenig Sinn macht. Haben Angst, eine Entscheidung zu treffen, fühlen sich unverstanden, ecken mit anderen Menschen an, trauen sich nicht viel zu.
-
-Sie können traumatisch Erlebtes nicht abschließen und erleben Flashbacks.
-
-Ihre Lebensqualität ist gerade beeinträchtigt, der Alltag schwer bewältigbar, Sie sind Lebensumbrüchen ausgesetzt und fühlen sich erschöpft.
-
-Haben somatische Beschwerden, wie:  Schmerzen, Schlafstörungen, Schwindel, verspüren einen Zwang, bestimmte Handlungen (Waschen, etc. ) zu wiederholen, haben Angst oder Panik vor gewissen Situationen (kleinen Räumen,  großen Plätzen, Prüfungen, etc.)
-
-Sie fühlen sich krank, obwohl ihr Arzt keine somatischen Gründe dafür findet, oder sie möchten einfach Vergangenes hinter sich lassen und neu beginnen.
+* Sie fühlen sich verloren, fremdbestimmt, wenig unterstützt, wissen nicht mehr weiter, sehen wenig Ausweg aus der gerade vorfindenden Situation, sind traurig, müde, aufstehen fällt schwer, sie denken, dass das Leben wenig Sinn macht. Haben Angst, eine Entscheidung zu treffen, fühlen sich unverstanden, ecken mit anderen Menschen an, trauen sich nicht viel zu.
+* Phasen enormer Unruhe, Agitiertheit, Aufregung und Freude wechseln abrupt mit Energielosigkeit, Gefühle der Wertlosigkeit, Schuld und Selbstmordgedanken.
+* Sie haben Schuldgefühle nach übermäßigen Konsum von Alkohol, Drogen oder leugnen diesen.
+* Haben Stimmungsschwankungen die schwer und plötzlich daherkommen, Gefühle der Angst nicht zu genügen, werden schnell wütend, ihre Umwelt scheint sie nicht zu verstehen, sie fügen sich selbst Verletzungen zu.
+* Sie können traumatisch Erlebtes nicht abschließen und erleben Flashbacks.
+* Ihre Lebensqualität ist gerade beeinträchtigt, der Alltag schwer bewältigbar, Sie sind Lebensumbrüchen ausgesetzt und fühlen sich erschöpft.
+* Haben somatische Beschwerden, wie:  Schmerzen, Schlafstörungen, Schwindel, verspüren einen Zwang, bestimmte Handlungen (Waschen, etc. ) zu wiederholen, haben Angst oder Panik vor gewissen Situationen (kleinen Räumen,  großen Plätzen, Prüfungen, etc.)
+* Sie fühlen sich krank, obwohl ihr Arzt keine somatischen Gründe dafür findet, oder sie möchten einfach Vergangenes hinter sich lassen und neu beginnen.

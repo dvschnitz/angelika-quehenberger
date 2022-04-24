@@ -2,7 +2,7 @@
 title: Psychotherapie, Coaching, Beratung - wozu und für wen?
 layout: page
 description: Psychotherapie, Coaching, Beratung - wozu und für wen?
-intro_image: ["images/photos/H060270b.jpg", "images/photos/H060494.jpg"]
+intro_image: ["images/photos/neue_sichtweisen.jpg", "images/photos/H060270b.jpg", "images/photos/H060494.jpg"]
 weight: 0
 ---
 

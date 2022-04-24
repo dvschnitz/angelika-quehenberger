@@ -18,5 +18,5 @@ Mögliche Gründe für eine Familientherapie:
 * Traumatische Erfahrungen, Verlust eines Familienmitglieds
 * Lebensbedrohliche Erkrankung eines Familienmitglieds
 * Schulische Probleme
-* Trennung/ Scheidung der Eltern
+* Trennung / Scheidung der Eltern
 

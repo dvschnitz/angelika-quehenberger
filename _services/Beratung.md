@@ -17,5 +17,4 @@ Ich werde mit ihnen gemeinsam auf die Suche gehen, um Sie bei ihren neuen Schrit
 * bei Arbeitslosigkeit
 
 Auch kann es sein, dass sich Fragen ergeben in Bezug auf unterschiedliche Erziehungsstile. Erziehung ist kein „Kinderspiel“, Probleme und unterschiedliche Ansichten in der Kindererziehung können Eltern oft „schier“ an den Rand der Verzweiflung bringen.
-
 ![Illustration Trotz](../../images/illustrations/PT_Quehenberger_Trotz.png)

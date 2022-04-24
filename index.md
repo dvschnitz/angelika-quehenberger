@@ -5,7 +5,7 @@ description: Angelika Quehenberger Praxis für Psychotherapie
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: true
-intro_image: "images/photos/H060223.jpg"
+intro_image: "images/photos/banner.jpg"
 ---
 
 # Angelika Quehenberger - Praxis für Psychotherapie
