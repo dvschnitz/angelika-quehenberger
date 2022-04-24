@@ -4,7 +4,7 @@ date: 2021-11-18T12:33:46+10:00
 featured: true
 weight: 6
 layout: service
-intro_image: "images/photos/H060283neu.jpg"
+intro_image: ["images/photos/H060366.jpg", "images/photos/H060283neu.jpg"]
 ---
 
 Manchmal kann es auch gut sein, achtsam und in Würde eigene Wege zu gehen!
