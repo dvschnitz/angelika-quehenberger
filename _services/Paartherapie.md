@@ -18,3 +18,6 @@ In der Paartherapie versucht die Therapeutin mit ihnen gemeinsam zu ergründen, 
 Ihrer beider Anliegen in der Paartherapie liegt mir besonders am HERZEN.
 
 >*Paarprobleme entstehen meist nicht von heute auf morgen! Paartherapie setzt einen Lernprozess in Gang, der seine Zeit braucht und Lösungsstress nach Möglichkeit meidet“.* <br><sub>Ilse Gschwendt<sub>
+
+>*Keine Begegnung in unserem Leben ist ein Zufall*
+<br><sub>Hakan Mengüs<sub>

@@ -3,7 +3,7 @@ title: "Therapie mit Kindern und Jugendlichen"
 date: 2021-11-28T15:15:34+10:00
 featured: true
 weight: 4
-intro_image: ["images/photos/H060102.jpg", "images/photos/H060140neu.jpg", "images/photos/H060182.jpg",
+intro_image: ["images/photos/H060182.jpg", "images/photos/H060102.jpg", "images/photos/H060140neu.jpg",
   "images/photos/H060417.jpg", "images/photos/boy.jpg", "images/photos/girl.jpg"]
 ---
 

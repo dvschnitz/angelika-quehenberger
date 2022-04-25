@@ -2,7 +2,7 @@
 title: Aus- und Fort&shy;bildungen
 layout: page
 description: Über mich Aus- und Fortbildungen
-intro_image: ["images/photos/H060512.jpg", "images/photos/H060511.jpg"]
+intro_image: ["images/photos/H060512.jpg", "images/photos/H060621.jpg", "images/photos/H060511.jpg"]
 ---
 
 ## Aus- und Fortbildungen
