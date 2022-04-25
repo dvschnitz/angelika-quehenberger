@@ -3,13 +3,22 @@ layout: default
 bodyClass: "page-service"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  {% assign arraySize = page.intro_image | size %}
-  {% for image in page.intro_image %}
-  <div class="col-12 col-md-6 col-lg-8 position-relative">
-    <img alt={{ page.title }} id="image-{{forloop.index}}" class="{% if forloop.index > 1 %}hide-image{% endif %} {% if arraySize > 1 %}image-slideshow{% endif %} intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ image | relative_url }}" />
+{% if page.intro_image_top %}
+  <div class="container-intro-image">
+    <img alt="{{ page.title }}" class="intro-image-top" src="{{ page.intro_image | relative_url }}" />
   </div>
-  {% endfor %}
+{% endif %}
+
+<div class="container pb-6 pb-md-10 {% if page.intro_image_top != true %}pt-6 pt-md-10{% endif %}{% if page.intro_image_top %}pt-1 pt-md-1{% endif %}">
+
+  {% if page.intro_image_top != true %}
+    {% assign arraySize = page.intro_image | size %}
+    {% for image in page.intro_image %}
+    <div class="col-12 col-md-6 col-lg-8 position-relative">
+      <img alt={{ page.title }} id="image-{{forloop.index}}" class="{% if forloop.index > 1 %}hide-image{% endif %} {% if arraySize > 1 %}image-slideshow{% endif %} intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ image | relative_url }}" />
+    </div>
+    {% endfor %}
+  {% endif %}
   <div class="row justify-content-start pt-2">
     <div class="col-12 col-md-8">
       <div class="service service-single">

@@ -18,4 +18,16 @@
   .image-slide {
     width: 100%;
   }
+
+  .intro-image-top {
+    margin-top: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 1920px;
+  }
+
+  .container-intro-image {
+    display: flex;
+    justify-content: center;
+  }
 }

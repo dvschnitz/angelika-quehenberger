@@ -5,7 +5,8 @@ featured: true
 weight: 8
 layout: service
 description: Über mich
-intro_image: ["images/photos/H060254.jpg"]
+intro_image: "images/photos/H060223.jpg"
+intro_image_top: true
 ---
 
 # Was mir wichtig ist
