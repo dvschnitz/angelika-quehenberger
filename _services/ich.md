@@ -1,5 +1,5 @@
 ---
-title: Über mich
+title: Ich als Person & und mein(e) Beruf-ung
 date: 2021-11-28T15:15:34+10:00
 featured: true
 weight: 8
