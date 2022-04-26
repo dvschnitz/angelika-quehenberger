@@ -6,6 +6,7 @@ weight: 8
 layout: service
 intro_image: "images/photos/frau_am_wasser-gespiegelt.jpg"
 ---
+# Psychotherapie auch im Alter wirksam und erfolgreich
 
 Ältere Menschen haben im Laufe ihres Lebens oft eine erstaunliche Widerstandsfähigkeit entwickelt, um mit Enttäuschungen und Verlusten fertig zu werden. Aber sie müssen nicht alles alleine schaffen:
 

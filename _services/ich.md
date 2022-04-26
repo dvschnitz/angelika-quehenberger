@@ -1,5 +1,5 @@
 ---
-title: Ich als Person & und mein(e) Beruf-ung
+title: Über mich
 date: 2021-11-28T15:15:34+10:00
 featured: true
 weight: 8
@@ -9,7 +9,8 @@ intro_image: "images/photos/H060223.jpg"
 intro_image_top: true
 ---
 
-# Was mir wichtig ist
+# Ich als Person & und mein(e) Beruf-ung
+## Was mir wichtig ist
 
 Privat sind es zweifelsohne meine beiden Kinder, Laura Christin und Noah Gabriel!
 
