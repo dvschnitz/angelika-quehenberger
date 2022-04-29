@@ -4,6 +4,9 @@ bodyClass: "page-basic"
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    {% if page.showDate and page.date %}
+        <div class="date">{{page.date | date: "%d.%m.%Y"}}</div>
+    {% endif %}
     {% assign arraySize = page.intro_image | size %}
     {% for image in page.intro_image %}
     <div class="col-12 col-md-6 col-lg-8 position-relative">

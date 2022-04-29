@@ -4,6 +4,7 @@ date: 2022-04-18T12:33:46+10:00
 featured: true
 weight: 3
 layout: page
+showDate: true
 ---
 
 Skills und Achtsamkeits-Training

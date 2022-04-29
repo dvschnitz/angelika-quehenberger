@@ -1,9 +1,10 @@
 ---
 title: "Das Märchen von der traurigen Traurigkeit"
-date: 2021-11-18T12:33:46+10:00
+date: 2022-04-29T12:33:46+10:00
 featured: true
 weight: 4
 layout: page
+showDate: true
 ---
 
 <!-- ![Wald](../../images/photos/traurigkeit.jpg) -->
