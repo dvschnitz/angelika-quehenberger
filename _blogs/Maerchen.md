@@ -7,7 +7,7 @@ layout: page
 showDate: true
 ---
 
-<!-- ![Wald](../../images/photos/traurigkeit.jpg) -->
+![Wald](../../images/photos/wald.jpg)
 
 Die traurige Traurigkeit.
 
