@@ -6,7 +6,7 @@ permalink: "/ersteSitzung/"
 intro_image: "images/photos/H060559.jpg"
 ---
 
-Die erste Sitzung dient dazu sich gegenseitig kennenzulernen, zu ergründen, ob und welche Therapie oder Unterstützung für Sie hilfreich sein kann. Sollten Sie sich gegen Ende dieser Stunde für eine Therapie entscheiden, dann werden wir gemeinsam Rahmenbedingungen und Therapiekontext (Dauer, Abstand zwischen den Sitzungen, ihren Wunsch nach dem Therapieziel) bereden.
+Die erste Sitzung dient dazu sich gegenseitig kennenzulernen, zu ergründen, ob und welche Therapie oder Unterstützung für Sie hilfreich sein kann. Sollten Sie sich gegen Ende dieser Stunde für eine Therapie entscheiden, dann werden wir gemeinsam Rahmenbedingungen und Therapiekontext (Dauer, Abstand zwischen den Sitzungen, ihr/ihrem Wunsch nach dem Therapieziel) bereden.
 
 In dieser Sitzung werden auch Themen wie meine Verschwiegenheitspflicht, der Datenschutz, Empfehlung zu Setting und Therapiedauer, sowie das Prozedere zu den Therapievereinbarungen, besprochen.
 
@@ -16,4 +16,4 @@ Als Psychotherapeutin in Ausbildung unter Supervision können sie ihre Rechnung 
 
 Eine Einheit Psychotherapie dauert 50 Minuten und kostet 70 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 140 Euro. Die Verrechnung erfolgt über eine Honorarnote, welche Sie bis spätestens 14 Tage nach der Sitzung begleichen.
 
-Eine zeitgerechte Absage von vereinbarten Sitzungen bis spätestens 48 Stunden vor dem Termin ist erforderlich; nicht zeitgerechte Absagen müssen verrechnet werden.
+Vereinbarte Termine können kostenfrei 48 Stunden vorher via Email, Telefon oder SMS abgesagt oder verschoben werden.

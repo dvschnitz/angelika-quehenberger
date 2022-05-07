@@ -7,6 +7,10 @@ layout: service
 intro_image: ["images/photos/H060366.jpg"]
 ---
 
+Mit einer Scheidung geht oft einher, dass ein Elternteil für das Kind nicht mehr so präsent ist. Das Kind braucht aber beide Elternteile um gesund aus dieser, für sich krisenhaften Zeit rauszukommen.
+
+In unserer Gesellschaft ist der fehlende Elternteil meist der Vater. Sie als Eltern und wichtige Bezugspersonen des Kindes finden Tipps und Anleitung in dieser schwierigen Zeit.
+
 Manchmal kann es auch gut sein, achtsam und in Würde eigene Wege zu gehen!
 
 Sie beide oder ein Elternteil hat beschlossen, die Beziehung zu beenden, einen neuen Weg zu gehen?
