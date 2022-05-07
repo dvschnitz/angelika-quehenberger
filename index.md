@@ -10,6 +10,6 @@ intro_image: "images/photos/banner.jpg"
 
 # Angelika Quehenberger - Praxis für Psychotherapie
 
-Ich freu mich über ihr Interesse und über ihre Motivation zu einem Schritt der für Sie von Bedeutung sein wird.
+Ich freue mich über ihr Interesse und über ihre Motivation zu einem Schritt, der für Sie von Bedeutung sein wird.
 Wenn der Blick in mein **[Fenster](method/)** Sie anspricht und Ihr Interesse weckt, dann klopfen Sie gerne an meine **[Tür](contact/)**.
 Finden wir gemeinsam heraus, wie ich Sie professionell unterstützen und begleiten kann.
