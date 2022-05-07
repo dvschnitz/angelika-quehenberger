@@ -6,8 +6,9 @@ intro_image: ["images/photos/H060512.jpg", "images/photos/H060621.jpg", "images/
 ---
 
 ## Aus- und Fortbildungen
-* DBT Ausbildung (AWP Berlin) folgend
-* LASF Psychotherapieausbildung folgend (Psychotherapeutin unter Supervision)
+* DBT Ausbildung (AWP Berlin) zertifizierte
+Grundausbildung
+* LASF Psychotherapieausbildung laufend
 * Mediationsausbildung
 * Ausbildung in systemischer Familienarbeit
 * Ausbildung zur Elternbildnerin

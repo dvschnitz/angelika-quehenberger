@@ -6,10 +6,11 @@ intro_image: ["images/photos/H060604.jpg"]
 ---
 
 ## Beruflicher Werdegang
+* 2022 Skills und Achtsamkeits – Training laufend
 * 2020 Mobilis GmbH folgend
 * 2020 Systemische Therapeutin in Ausbildung unter Supervision folgend
-* 2019 - 2020  Kinderbeiständin Justizbetreuungsagentur
-* 2018 Scheidungsberatungen nach § 95 folgend
+* 2017 - 2020  Kinderbeiständin Justizbetreuungsagentur
+* 2017 Scheidungsberatungen nach § 95 folgend
 * 2008 – 2021 Social workerin in der Kinder und Jugendhilfe
 * 2006 – 2013 Referentin und Leitung von Väterseminaren über die katholische Männerbewegung und das katholische Bildungswerk Salzburg
 * 2006 - 2013 Referentin auf selbstständiger Basis im Eltern Kind Zentrum Salzburg und bei den Kinderfreunden OÖ

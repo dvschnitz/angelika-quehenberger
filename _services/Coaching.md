@@ -10,9 +10,9 @@ intro_image: "images/photos/H060693.jpg"
 ## Coaching
 Neue Perspektiven und Handlungsmöglichkeiten eröffnen!
 
-* Sie möchten Ihre Fertigkeiten und Fähigkeiten besser nutzen.
-* Ihr Potential ausbauen.
-* Ihre Persönlichkeit weiterentwickeln.
+* Sie möchten Ihre Fertigkeiten und Fähigkeiten besser nutzen
+* Ihr Potential ausbauen
+* Ihre Persönlichkeit weiterentwickeln
 
 Was dürfen Sie erwarten?
 

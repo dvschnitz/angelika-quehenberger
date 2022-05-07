@@ -17,3 +17,11 @@ Wenn die Seele leidet
 * Ihre Lebensqualität ist gerade beeinträchtigt, der Alltag schwer bewältigbar, Sie sind Lebensumbrüchen ausgesetzt und fühlen sich erschöpft.
 * Haben somatische Beschwerden, wie:  Schmerzen, Schlafstörungen, Schwindel, verspüren einen Zwang, bestimmte Handlungen (Waschen, etc. ) zu wiederholen, haben Angst oder Panik vor gewissen Situationen (kleinen Räumen,  großen Plätzen, Prüfungen, etc.)
 * Sie fühlen sich krank, obwohl ihr Arzt keine somatischen Gründe dafür findet, oder sie möchten einfach Vergangenes hinter sich lassen und neu beginnen.
+
+Krisen in unserem Leben können durchaus auch Chance sein für
+Neuorientierung.
+Zu einer Entwicklung führen für ein besseres Leben, als dies bisher vielleicht
+der Fall war.
+
+Gemeinsam werden wir verschiedene Blickwinkel betrachten um
+herauszufinden, was für Sie bedeutsam und wichtig ist in Ihrem Leben.

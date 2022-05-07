@@ -15,7 +15,7 @@ intro_image: "images/photos/frau_am_wasser-gespiegelt.jpg"
 * Fühlen sich alleine und enttäuscht vom Leben
 * Haben Angst
 * Sind in einer depressiven Stimmung
-* Möchten - möglicherweise schon sehr lange zurückliegende -  Kränkungen zurücklassen - einen Abschluss finden und es „gut werden lassen“.
+* Möchten, möglicherweise schon sehr lange zurückliegende, Kränkungen zurücklassen, einen Abschluss finden und es „gut werden lassen“.
 
 Ich möchte für sie Ansprechpartner sein, und mit ihnen gemeinsam erarbeiten, wie sie, trotz möglicher  Einschränkungen,  wieder zu mehr Lebensqualität kommen und ihr Wohlbefinden stärken können.
 
