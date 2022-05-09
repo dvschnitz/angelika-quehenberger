@@ -1,6 +1,6 @@
 ---
 title: "Ischia Reise"
-date: 2022-02-2412:33:46+10:00
+date: 2022-02-24T12:33:46+10:00
 featured: true
 weight: 2
 layout: page
