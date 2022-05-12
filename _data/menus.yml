@@ -34,20 +34,12 @@ main:
   - name: "Ablauf erste Sitzung"
     url: "/ersteSitzung/"
     weight: 10
-  - name: "Über mich"
-    id: "about"
+  - name: "Mein Werdegang"
+    url: "/berufserfahrung/"
     weight: 11
-    children: [{
-        name: "Berufserfahrung & Praktika",
-        url: "/berufserfahrung/"
-      },{
-        name: "Aus- und Fortbildungen",
-        url: "/ausbildung/"
-      },{
-        name: "Ich als Person",
-        url: "services/ich/"
-      }
-    ]
+  - name: "Ich als Person"
+    url: "services/ich/"
+    weight: 12
 footer:
   - name: "Kontakt"
     url: "/contact/"
