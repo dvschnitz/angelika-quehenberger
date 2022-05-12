@@ -16,8 +16,6 @@ Sie sind bestürzt, traurig, durcheinander, wütend, hilflos... . Und sollen auc
 
 Das kann sehr schwer werden! Deshalb hat der Gesetzgeber vorgesorgt, indem er zu den Bedürfnissen der Kinder eine verpflichtende Beratung vorschreibt. In der Elternberatung werde ich Sie zu den Bedürfnissen, Gefühlen und Konflikten der Kinder beraten. Tipps zur Gestaltung des sich nun geänderten, elterlichen Alltags und Hinweise auf elterliche Haltungen, die für Kinder entlastend sind, sollen Ihnen weitere Hilfestellungen aufzeigen.
 
-Wichtig hier auch im Besonderen das Recht des Kindes auf beide Elternteile. 
-
-Mit einer Scheidung geht oft einher, dass ein Elternteil für das Kind nicht mehr so präsent ist. Das Kind braucht aber beide Elternteile um gesund aus dieser, für sich krisenhaften Zeit rauszukommen.
+Wichtig hier auch im Besonderen das Recht des Kindes auf beide Elternteile. Mit einer Scheidung geht oft einher, dass ein Elternteil für das Kind nicht mehr so präsent ist. Das Kind braucht aber beide Elternteile um gesund aus dieser, für sich krisenhaften Zeit rauszukommen.
 
 In unserer Gesellschaft ist der fehlende Elternteil meist der Vater. Sie als Eltern und wichtige Bezugspersonen des Kindes finden Tipps und Anleitung in dieser schwierigen Zeit.
