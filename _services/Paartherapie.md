@@ -11,7 +11,7 @@ In der Paartherapie versucht die Therapeutin mit ihnen gemeinsam zu ergründen, 
 * Lebenspläne auseinander klaffen
 * Es schwer ist, gemeinsame Ziele zu finden
 * Uneinigkeit über die Kindererziehung herrscht
-* Wenn Personen die außerhalb der Beziehung stehen, Sie als Paar zu stark beeinflussen
+* Wenn Personen, die außerhalb der Beziehung stehen, Sie als Paar zu stark beeinflussen
 * Sie unterschiedliche Ansichten in Bezug auf Sexualität haben oder Sex überhaupt ein heikles Thema ist
 * Ihre Kommunikation gerade auf „Null“ zu geht
 
