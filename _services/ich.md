@@ -1,17 +1,17 @@
 ---
-title: Über mich
+title: Ich als Person & und mein(e) Beruf-ung
 date: 2021-11-28T15:15:34+10:00
 featured: true
 weight: 8
 layout: service
-description: Über mich
+description: Ich als Person & und mein(e) Beruf-ung
 intro_image: "images/photos/H060223.jpg"
 intro_image_top: true
 ---
 
-Ich als Person & und mein(e) Beruf-ung
+Was mir wichtig ist
 
-Was mir wichtig ist Privat sind es zweifelsohne meine beiden Kinder, Laura Christin und Noah Gabriel!
+Privat sind es zweifelsohne meine beiden Kinder, Laura Christin und Noah Gabriel!
 
 In meiner Freizeit liebe ich es -  als Ausgleich zu meinem Beruf, wo ich so viele  unterschiedliche und interessante Menschen und Lebensgeschichten erfahren darf -  stundenlang im unwegsamen Gelände unterwegs zu sein; Berge zu erklimmen, mich mit Yoga in schöner Umgebung zu entspannen oder in die Oper zu gehen.
 
