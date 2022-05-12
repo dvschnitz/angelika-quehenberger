@@ -2,7 +2,7 @@
 title: Berufs&shy;erfahrung & Praktika
 layout: page
 description: Über mich Berufserfahrung & Praktika
-intro_image: ["images/photos/H060604.jpg"]
+intro_image: ["images/photos/H060604.jpg", "images/photos/H060512.jpg", "images/photos/H060511.jpg"]
 ---
 
 ## Beruflicher Werdegang
