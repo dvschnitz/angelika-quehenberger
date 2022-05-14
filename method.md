@@ -21,4 +21,4 @@ Techniken (Visualisieren von Lebensgeschichten; Externalisieren von Problemen, i
 Eine weitere Methode ist die systemische Aufstellungsarbeit. Sie wird hauptsächlich angewandt, um Bewegung in festgefahrene Situationen und Muster zu bringen. Probleme können aus einer Metaebene heraus beobachtet  werden. Dieser Perspektivenwechsel kann Klarheit herbeiführen und eine positive Konstellationen in die Wege leiten. Systemische Fragen regen die Phantasie, Gedanken und Reflexion an. Immer davon ausgehend, dass die Lösung bereits in uns selber steckt und es nur gilt, sie zu finden! 
 
 Frei nach Fernando Savares Sabino:
-<br>*„Am Ende wird alles gut. Wenn es nicht gut wird, ist es noch nicht das Ende“*
+<br>*„Am Ende wird alles gut. Wenn es nicht gut ist, ist es noch nicht das Ende“*
