@@ -26,14 +26,18 @@ intro_image: ["images/photos/H060604.jpg", "images/photos/H060512.jpg", "images/
 * 2000 Sachwalterschaft
 
 ## Aus- und Fortbildungen
-* DBT Ausbildung (AWP Berlin) zertifizierte
-Grundausbildung
-* LASF Psychotherapieausbildung laufend
-* Mediationsausbildung
-* Ausbildung in systemischer Familienarbeit
-* Ausbildung zur Elternbildnerin
-* Ausbildung zur Kinderspielgruppenleiterin
-* Psychotherapeutisches Propädeutikum
-* Socialworkerin (Sozialakademie Salzburg)
-* Studium zur  psychosozial/analytischen Pädagogin (Uni Innsbruck)
+* DBT Ausbildung (AWP Berlin) zertifizierte Grundausbildung 2021 -2022
+* Forschungsprojekt Lasf Konversationsanalyse 2021 laufend
+* Konversationsanalyse (Prof. DDr. Michael Buchholz) 2019
+* LASF Psychotherapieausbildung 2018 laufend
+* Ausbildung zur Kinderbeiständin 2017
+* Eignungsanerkennung zur „Beratung von Eltern nach §95 Abs. 1a AußStrG“ 2017 (Bundesministerium für Familie und Jugend Wien)
+* Ausbildung in systemischer Familienarbeit Land OÖ 2015-2016
+* Mediationsausbildung Land OÖ 2014 -2015
+* Intensivlehrgang für Elternbildnerinnen 2006
+* Ausbildung zur Kinderspielgruppenleiterin 2005-2006
+* Socialworkerin (Sozialakademie Salzburg) 2000-2004
+* Studium zur psychosozial/analytischen Pädagogin (Uni Innsbruck) 2000-2007
+* Psychotherapeutisches Propädeutikum 1998-2000
+* Abendgymnasium für Berufstätige 1991-1997
 * Ausbildung zur Arzt- und zahnärztlichen Assistentin
