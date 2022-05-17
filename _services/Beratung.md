@@ -11,7 +11,7 @@ intro_image: "images/photos/H060319.jpg"
 
 * nach einer Scheidung oder Trennung
 * bei Schwierigkeiten am Arbeitsplatz oder Arbeitslosigkeit
-* bei Problemen bei der Kindererziehung
+* bei Problemen in der Kindererziehung
 
 Bei Lebenseinschnitten, wie beispielsweise nach einer Scheidung, Trennung oder bei  Arbeitslosigkeit kann es oft schwer sein, das neue Leben zu meistern – das Leben „in den Griff“ zu bekommen.
 
