@@ -5,7 +5,7 @@ featured: true
 weight: 2
 intro_image: ["images/photos/H060314.jpg", "images/photos/H060283neu.jpg",  "images/photos/H060361.jpg"]
 ---
-In der Paartherapie versucht die Therapeutin mit ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
+In der Paartherapie versucht die Therapeutin mit Ihnen gemeinsam zu ergründen, welche Probleme in der Beziehung bestehen. Gemeinsam werden Sie mit meiner Unterstützung nach Lösungsmöglichkeiten suchen.
 
 * Wenn gegenseitige Wünsche und Bedürfnisse nicht mehr erfüllt werden
 * Lebenspläne auseinander klaffen

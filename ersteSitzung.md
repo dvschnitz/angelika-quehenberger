@@ -12,8 +12,13 @@ In dieser Sitzung werden auch Themen wie meine Verschwiegenheitspflicht, der Dat
 
 # Zahlungs&shy;modalitäten
 
-Als Psychotherapeutin in Ausbildung unter Supervision können sie ihre Rechnung nicht bei der Krankenkasse einreichen. Deswegen habe ich für Sie meinen Tarif so angepasst, dass IHNEN trotzdem keine höheren Kosten entstehen.
+Eine Einheit Psychotherapie dauert 50 Minuten und kostet 95 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 190 Euro.
 
-Eine Einheit Psychotherapie dauert 50 Minuten und kostet 70 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 140 Euro. Die Verrechnung erfolgt über eine Honorarnote, welche Sie bis spätestens 14 Tage nach der Sitzung begleichen.
+Die Verrechnung erfolgt über eine Honorarnote, die Sie von mir bekommen. Bezahlt werden kann gleich direkt in bar nach der Sitzung oder per Kontoüberweisung (innerhalb von 14 Tagen).
 
 Vereinbarte Termine können kostenfrei 48 Stunden vorher via Email, Telefon oder SMS abgesagt oder verschoben werden.
+
+# Kostenrückerstattung
+
+Ein Kostenzuschuss durch die Krankenkasse ist bei entsprechender Voraussetzung (siehe **[„Ansuchen um eine Kostenrückerstattung„](../kostenruekerstattung/)**) und dem Vorliegen einer Diagnose möglich.
+Coaching, Scheidungsberatung, Erziehungsberatung und Paartherapie sind keine „Kassenleistungen“ und werden nicht von der Krankenkasse übernommen.

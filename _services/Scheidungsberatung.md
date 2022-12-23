@@ -9,7 +9,7 @@ intro_image: ["images/photos/H060366.jpg"]
 
 Manchmal kann es auch gut sein, achtsam und in Würde eigene Wege zu gehen!
 
-Sie beide oder ein Elternteil hat beschlossen, die Beziehung zu beenden, einen neuen Weg zu gehen?
+Sie beide, oder ein Elternteil hat beschlossen, die Beziehung zu beenden, einen neuen Weg zu gehen?
 Sie sind bestürzt, traurig, durcheinander, wütend, hilflos... . Und sollen auch noch auf die Bedürfnisse Ihrer Kinder achten!
 
 ![Illustration Trennung](../../images/illustrations/PT_Quehenberger_Trennung.png)

@@ -9,9 +9,9 @@ intro_image: "images/photos/H060319.jpg"
 
 ## Beratung
 
-* nach einer Scheidung oder Trennung
-* bei Schwierigkeiten am Arbeitsplatz oder Arbeitslosigkeit
-* bei Problemen in der Kindererziehung
+* Nach einer Scheidung oder Trennung
+* Bei Schwierigkeiten am Arbeitsplatz oder Arbeitslosigkeit
+* Bei Problemen in der Kindererziehung
 
 Bei Lebenseinschnitten, wie beispielsweise nach einer Scheidung, Trennung oder bei  Arbeitslosigkeit kann es oft schwer sein, das neue Leben zu meistern – das Leben „in den Griff“ zu bekommen.
 
