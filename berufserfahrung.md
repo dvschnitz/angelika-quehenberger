@@ -6,9 +6,9 @@ intro_image: ["images/photos/H060604.jpg", "images/photos/H060512.jpg", "images/
 ---
 
 ## Beruflicher Werdegang
-* 2022 Skills und Achtsamkeits–Training laufend
+* 2022 Skills und Achtsamkeits–Training Seminare laufend
 * 2020 Mobilis GmbH laufend
-* 2020 - 2022 Ausbildung zur Systemische Therapeutin
+* Psychotherapiepraxis in Strasswalchen und Frankenmarkt seit 2020
 * 2017 - 2020  Kinderbeiständin Justizbetreuungsagentur
 * 2017 Scheidungsberatungen nach § 95 laufend
 * 2008 – 2021 Social workerin in der Kinder und Jugendhilfe

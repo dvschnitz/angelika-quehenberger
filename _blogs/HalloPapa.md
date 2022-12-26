@@ -7,6 +7,6 @@ layout: page
 showDate: true
 ---
 
-Hallo Papa
+Ypsilon Nr.3 im Jahr 2007
 
 <a href="../../assets/documents/hallo_papa.pdf" download>PDF mit Information</a>
