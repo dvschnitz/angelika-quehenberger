@@ -29,7 +29,7 @@ intro_image: ["images/photos/H060604.jpg", "images/photos/H060512.jpg", "images/
 * DBT Ausbildung (AWP Berlin) zertifizierte Grundausbildung 2021-2022
 * Forschungsprojekt Lasf Konversationsanalyse 2021 laufend
 * Konversationsanalyse (Prof. DDr. Michael Buchholz) 2019
-* LASF Psychotherapieausbildung 2018 laufend
+* LASF Psychotherapieausbildung 2018-2022
 * Ausbildung zur Kinderbeiständin 2017
 * Eignungsanerkennung zur „Beratung von Eltern nach §95 Abs. 1a AußStrG“ 2017 (Bundesministerium für Familie und Jugend Wien)
 * Ausbildung in systemischer Familienarbeit Land OÖ 2015-2016
