@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Angelika Quehenberger'
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/logo-transparent-blue.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo-transparent-blue.png"
   desktop_height: "48px"
   desktop_width: "48px"
 

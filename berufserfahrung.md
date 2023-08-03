@@ -6,6 +6,7 @@ intro_image: ["images/photos/H060604.jpg", "images/photos/H060512.jpg", "images/
 ---
 
 ## Beruflicher Werdegang
+* seit 07.07.2023 Behandlerin Projekt: "Gesund aus der Krise"
 * 2022 Skills und Achtsamkeits–Training Seminare laufend
 * 2020 Mobilis GmbH laufend
 * Psychotherapiepraxis in Strasswalchen und Frankenmarkt seit 2020
