@@ -1,5 +1,4 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
-  <img src="{{'/images/logo/logo-white-full.png' | relative_url}}" class="logo-top">
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}
