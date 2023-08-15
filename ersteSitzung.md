@@ -12,7 +12,7 @@ In dieser Sitzung werden auch Themen wie meine Verschwiegenheitspflicht, der Dat
 
 # Zahlungs&shy;modalitäten
 
-Eine Einheit Psychotherapie dauert 50 Minuten und kostet 106 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 212 Euro.
+Eine Einheit Psychotherapie dauert 50 Minuten und kostet 98 Euro. Eine Doppeleinheit dauert 100 Minuten und kostet 196 Euro.
 
 Die Verrechnung erfolgt über eine Honorarnote, die Sie von mir bekommen. Bezahlt werden kann gleich direkt in bar nach der Sitzung oder per Kontoüberweisung (innerhalb von 14 Tagen).
 
